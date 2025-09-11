@@ -1,7 +1,7 @@
 # Manual Dotnet
 Repositório com o objetivo de servir como guia de referência para o .NET e a linguagem C#.
-O .NET é um ambiente de programação que suporta a execução de programas nas linguagens C#, F# e Visual Basic. Assemelha-se ao Java, que roda em cima de um ambiente de execução (Java VM) com o objetivo de garantir segurança de hardware (ambiente gerenciado) e gestão de recursos aos programas executados.   
-O ambiente também tem como objetivo permitir a interoperabilidade entre as linguagens suportadas e fornecer uma biblioteca ampla de ferramentas.   
+O .NET é um ambiente de programação que suporta a execução de programas nas linguagens C#, F# e Visual Basic. Assemelha-se ao Java, que roda em cima de um ambiente de execução (Java VM) com o objetivo de garantir segurança de hardware e gestão de recursos aos programas executados (ambiente gerenciado + CLR ('Common Language Runtime')).   
+O ambiente também tem como objetivo permitir a interoperabilidade entre as linguagens suportadas e fornecer uma biblioteca ampla de ferramentas (BCL -> 'Base Class Library').   
 Não é possível executar código C# fora do ambiente .NET!    
 
 [Link da documentação oficial](https://learn.microsoft.com/en-us/dotnet/csharp/)  
