@@ -6,8 +6,15 @@
 
 class Tipos
 {
+    // Tipos Primitivos Principais
     string conjuntoDeCaracteres = "conjunto de caracteres"; //DEVE estar entre aspas duplas
     char apenasUmCaractere = 'a'; //DEVE estar entre aspas simples
+    bool booleano = true;
+    int inteiro = 3;
+    double valorFloat = 3.3;
+
+    // Outros Tipos Primitivos:
+    // float, etc etc etc
 
     string nome = "eduardo";
     string sobrenome = "bandeira";
