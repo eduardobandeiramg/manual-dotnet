@@ -76,7 +76,7 @@ class Usuario6
         get
         {
             return _nome;
-            return $"O nome do usuário é: {_nome}";
+            //return $"O nome do usuário é: {_nome}";
         }
         set
         {
